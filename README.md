@@ -1,53 +1,106 @@
-## Campaigns and Tags Generation
+# Qortex VAST Tag Builder
 
-### Campaigns
+Internal tool for managing ad campaigns and generating VAST tags for the Qortex ad server.
 
-Currently, campaigns are stored in the `qx-iva-video\tags\campaigns\campaigns.json` directory. The campaigns are organized as a `JSON` structure, which is an object/dictionary.
+## 📁 Campaigns
 
-Each dictionary `key` is an `adId`. The value of the property is:
+Campaigns are stored in the file:
 
-```
-"[adId value]": { 
-    "advName": "[advertiser name]",
-    "advId": "[advId value]", 
-    "cid": "[campaign id value]",
-    "adId": "[adId value]",
-    "creative": "[long name]",
-    "tag_owner": "[3P tag owner :: ex: IAS]",
-    "vast_version": "[VAST version of 3P tag]",
-    "vast_wrapper": [true/false :: flags if Qortex tag is VAST Wrapper],
-    "vpaid": [ture/false :: flags if Qortex VPAID is used],
-    "omid": [true/false :: flags if Qortex OMID is used],
-    "is_wrapper": [true/false :: flags if the ad is direct or uses Qortex wrapping either VAST Wrapper or VPAID],
-    "rtype": "[integer :: response type : refer to config.py on the server]",
-    "dsp": "[DSP name]",
-    "adDuration": "[ad duration value :: should be aligned with 3P VAST AdDuration node value]",
-    "originalTag": "[false/URL :: 3P tag URL]",
-    "mediaFiles": [optional :: array of video files to include in VAST response. Used for pure VAST ads only.]
+`campaigns/campaigns.json`
+
+This is a JSON dictionary where each key is an `adId`, and each value contains metadata about a campaign.
+
+### 🔧 Campaign Entry Structure
+
+```json
+{
+  "123456": { 
+    "advName": "Advertiser Name",
+    "advId": "ADV001",
+    "cid": "CMP001",
+    "adId": "123456",
+    "creative": "Creative Long Name",
+    "tag_owner": "IAS",
+    "vast_version": "4.2",
+    "vast_wrapper": true,
+    "vpaid": false,
+    "omid": true,
+    "is_wrapper": true,
+    "rtype": "1",
+    "dsp": "TTD",
+    "adDuration": "30",
+    "originalTag": "https://3p-tag-url.com/vast",
+    "mediaFiles": [
+      {
+        "id": "video_001",
+        "delivery": "progressive",
+        "type": "video/mp4",
+        "bitrate": 2000,
+        "width": 640,
+        "height": 360,
+        "scalable": true,
+        "maintainAspectRatio": true,
+        "assetURI": "https://cdn.example.com/video.mp4"
+      }
+    ]
+  }
 }
 ```
-#### MediaFiles array element structure
+
+## ⚙️ Tag Generation & Deployment Flow
+
+1. **Update `campaigns.json`**  
+   Edit or extend `campaigns/campaigns.json` to include new campaigns or update existing ones.
+
+2. **Run the tag generation script**  
+   Run the bulk tag builder:
+
+   ```bash
+   python scripts/tag_builder_bulk.py
+   ```
+
+   This will output a CSV file with generated Qortex VAST tags to:
+
+   ```
+   dist/ctags-list-abb.csv
+   ```
+
+3. **Upload `campaigns.json` to S3**  
+   Replace the object at:
+
+   ```
+   https://s3.dualstack.us-east-1.amazonaws.com/dev-iva.qortex.ai/iva-server-assets/campaigns/campaigns.json
+   ```
+
+   with the new version of `campaigns/campaigns.json`.
+
+4. **Purge ad server cache**  
+   Use the following API endpoint to apply the update on the server:
+
+   ```
+   https://dev-iva-tag.qortex.ai/api/purge/
+   ```
+
+   This will reload the new campaigns into the ad-serving system.
+
+## 🧱 Project Structure
 
 ```
-{
-    "id": "[video asset id]",
-    "delivery": "progressive",
-    "type": "[mime type :: ex. video/mp4]",
-    "bitrate": [integer :: ex. 2000],
-    "width": [integer],
-    "height": [integer],
-    "scalable": "[true/false]",
-    "maintainAspectRatio": "[true/false]",
-    "assetURI": "[full address]"
-},
-
+campaigns/      → JSON campaign definitions  
+dist/           → Output CSV files  
+docs/           → Internal documentation notes  
+scripts/        → Entry-point Python scripts  
+utils/          → Shared helper modules (e.g. macro expansion)
 ```
 
-### Tag generation and deployment flow
+## 📝 Dependencies
 
-1. Update campaigns.json.
-2. Run `qx-iva-video\tags\tag_builder_bulk.py` script.
-3. Script generates Qortex tags and stores them in  `qx-iva-video\tags\ctags-list-abb.csv` file.
-4. Update S3 `https://s3.dualstack.us-east-1.amazonaws.com/dev-iva.qortex.ai/iva-server-assets/campaigns/campaigns.json` with the new `campaigns.json`.
-5. Run `https://dev-iva-tag.qortex.ai/api/purge/`. The script will update campaigns.json on the ad server. This makes all campaigns available for serving.
+Install dependencies in a virtual environment:
+
+```bash
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
+
 

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Logs and temp files
+*.log
+*.csv
+*.gz
+
+# Node (just in case)
+node_modules/
+
+# OS junk
+.DS_Store
+
+# Editor/IDE metadata
+*.swp
+.idea/
+.vscode/

@@ -1,0 +1,442 @@
+
+******************************
+
+Ad ID: 57448776
+Advertiser: Qortex
+Original tag owner: Qortex
+Creative: Qortex_validation_wrapper_local
+VAST version: 3.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/48293573/33610249/57448776?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/48293573/33610249/57448776?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/48293573/33610249/57448776?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/48293573/33610249/57448776?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1
+
+******************************
+
+Ad ID: 49933961
+Advertiser: Qortex
+Original tag owner: Qortex
+Creative: Qortex_validation_wrapper_dev
+VAST version: 3.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/48293573/33610249/49933961?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/48293573/33610249/49933961?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/48293573/33610249/49933961?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/48293573/33610249/49933961?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1
+
+******************************
+
+Ad ID: 76931535
+Advertiser: Qortex
+Original tag owner: Qortex
+Creative: Qortex_validation_wrapper_dev
+VAST version: 3.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/48293573/33610249/76931535?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/48293573/33610249/76931535?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/48293573/33610249/76931535?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/48293573/33610249/76931535?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+
+******************************
+
+Ad ID: 17422960
+Advertiser: AmEx
+Original tag owner: IAS
+Creative: AmEx
+VAST version: 3.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/28910444/56788107/17422960?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/28910444/56788107/17422960?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/28910444/56788107/17422960?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/28910444/56788107/17422960?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 52958476
+Advertiser: IAS
+Original tag owner: IAS
+Creative: IAS_Test_Xandr_VAST4_mobile
+VAST version: 4.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/74567762/52958476?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/74567762/52958476?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/74567762/52958476?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/74567762/52958476?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 64615060
+Advertiser: IAS
+Original tag owner: IAS
+Creative: IAS_Test_ADK
+VAST version: 3.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/74567762/64615060?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/74567762/64615060?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/74567762/64615060?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/74567762/64615060?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid={app_id}&d_campaign_id={campaign_id}&d_domain={domain}&d_pageurl={page_url}&d_referrer={referrer}&d_requestid={request_id}&d_siteid={site_id}&d_timestamp={timestamp}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 65685860
+Advertiser: DV
+Original tag owner: DV
+Creative: DV_Test
+VAST version: 3.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/69024250/48332701/65685860?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/69024250/48332701/65685860?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/69024250/48332701/65685860?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1
+    production: https://iva-tag.qortex.ai/ivavast/69024250/48332701/65685860?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1
+
+******************************
+
+Ad ID: 97580416
+Advertiser: IAS
+Original tag owner: IAS
+Creative: IAS_Test_Xandr
+VAST version: 3.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/74567762/97580416?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/74567762/97580416?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/74567762/97580416?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/74567762/97580416?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 84333066
+Advertiser: IAS
+Original tag owner: IAS
+Creative: IAS_Test_Xandr_VAST4
+VAST version: 4.2
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/74567762/84333066?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/74567762/84333066?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/74567762/84333066?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/74567762/84333066?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 84333111
+Advertiser: IAS
+Original tag owner: IAS
+Creative: IAS_Test_Xandr_VAST4_test2
+VAST version: 4.2
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/74567762/84333111?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/74567762/84333111?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/74567762/84333111?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/74567762/84333111?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 84333222
+Advertiser: IAS
+Original tag owner: IAS
+Creative: IAS_Test_Xandr_VAST4_test2
+VAST version: 4.2
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/74567762/84333222?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/74567762/84333222?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/74567762/84333222?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/74567762/84333222?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 84333333
+Advertiser: IAS
+Original tag owner: IAS
+Creative: IAS_Test_Xandr_VAST4_test2
+VAST version: 4.2
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/74567762/84333333?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/74567762/84333333?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/74567762/84333333?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/74567762/84333333?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 84334444
+Advertiser: IAS
+Original tag owner: IAS
+Creative: IAS_Test4_Xandr_VAST_4
+VAST version: 4.2
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/74567762/84334444?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/74567762/84334444?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/74567762/84334444?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/74567762/84334444?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 84335555
+Advertiser: IAS
+Original tag owner: IAS
+Creative: IAS_Test4_Xandr_VAST_3
+VAST version: 3.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/74567762/84335555?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/74567762/84335555?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/74567762/84335555?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/74567762/84335555?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 99991111
+Advertiser: IAS
+Original tag owner: IAS
+Creative: Internal_VPAID_Test
+VAST version: 4.2
+VAST Wrapper: False
+Implements OMID: True
+Implements VPAID: True
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99991111?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99991111?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99991111?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99991111?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_bidurl=%%TTD_SITE_WITH_PATH%%&d_cid=%%TTD_CAMPAIGNID%%&d_chanid=%%TTD_SUPPLYVENDOR%%&d_dealid=%%TTD_DEALID%%&d_impid=%%TTD_IMPRESSIONID%%&d_pid=%%TTD_ADGROUPID%%&d_pubid=%%TTD_PUBLISHERID%%&d_siteid=%%TTD_SITE%%&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 99992222
+Advertiser: IAS
+Original tag owner: IAS
+Creative: Internal_VPAID_Test_Xandr
+VAST version: 4.2
+VAST Wrapper: False
+Implements OMID: True
+Implements VPAID: True
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99992222?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99992222?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99992222?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99992222?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 99993333
+Advertiser: IAS
+Original tag owner: GroupM
+Creative: Internal_GroupM_Test_VPAID_OMID
+VAST version: 2.0
+VAST Wrapper: False
+Implements OMID: True
+Implements VPAID: True
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99993333?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99993333?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99993333?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99993333?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+
+******************************
+
+Ad ID: 99994444
+Advertiser: IAS
+Original tag owner: GroupM
+Creative: Internal_GroupM_Test_OMID
+VAST version: 2.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99994444?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99994444?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99994444?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99994444?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+
+******************************
+
+Ad ID: 99995555
+Advertiser: IAS
+Original tag owner: GroupM
+Creative: Internal_GroupM_Test_OMID_Wrapper_v4
+VAST version: 2.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99995555?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99995555?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99995555?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99995555?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+
+******************************
+
+Ad ID: 99996666
+Advertiser: GroupM
+Original tag owner: GroupM
+Creative: Internal_GroupM_Test_OMID_Wrapper_v4
+VAST version: 2.0
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99996666?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99996666?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99996666?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99996666?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+
+******************************
+
+Ad ID: 99997777
+Advertiser: GroupM
+Original tag owner: GroupM
+Creative: Internal_GroupM_Test_VPAID_OMID
+VAST version: 2.0
+VAST Wrapper: False
+Implements OMID: True
+Implements VPAID: True
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99997777?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99997777?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99997777?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99997777?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+
+******************************
+
+Ad ID: 99998888
+Advertiser: IAS
+Original tag owner: IAS
+Creative: Internal_GroupM_Test_VPAID_OMID
+VAST version: 2.0
+VAST Wrapper: False
+Implements OMID: True
+Implements VPAID: True
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99998888?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99998888?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99998888?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99998888?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_755}
+
+******************************
+
+Ad ID: 99990001
+Advertiser: GroupM
+Original tag owner: GroupM
+Creative: Multi_Server_GroupM_Test_VPAID_OMID
+VAST version: 4.2
+VAST Wrapper: False
+Implements OMID: True
+Implements VPAID: True
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99990001?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99990001?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99990001?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99990001?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+
+******************************
+
+Ad ID: 99990002
+Advertiser: GroupM
+Original tag owner: GroupM
+Creative: Multi_Server_GroupM_Test_OMID
+VAST version: 4.2
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99990002?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99990002?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99990002?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99990002?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+
+******************************
+
+Ad ID: 99990003
+Advertiser: GroupM
+Original tag owner: GroupM
+Creative: Multi_Server_GroupM_Test_VPAID_OMID
+VAST version: 4.2
+VAST Wrapper: False
+Implements OMID: True
+Implements VPAID: True
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99990003?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99990003?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99990003?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99990003?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+
+******************************
+
+Ad ID: 99990004
+Advertiser: GroupM
+Original tag owner: GroupM
+Creative: Multi_Server_GroupM_Test_OMID
+VAST version: 4.2
+VAST Wrapper: True
+Implements OMID: True
+Implements VPAID: False
+
+Tags
+    local: http://127.0.0.1:8000/ivavast/51814630/77777777/99990004?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    dev: https://dev-iva-tag.qortex.ai/ivavast/51814630/77777777/99990004?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    stage: https://stg-iva-tag.qortex.ai/ivavast/51814630/77777777/99990004?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1
+    production: https://iva-tag.qortex.ai/ivavast/51814630/77777777/99990004?apidframeworks=[APIFRAMEWORKS]&breakMaxAds=[BREAKMAXADS]&breakPosition=[BREAKPOSITION]&clientua=[CLIENTUA]&contentCat=[CONTENTCAT]&contentId=[CONTENTID]&contentURL=[CONTENTURI]&deviceua=[DEVICEUA]&domain=[DOMAIN]&inventoryState=[INVENTORYSTATE]&mediaPlayhead=[MEDIAPLAYHEAD]&omidPartner=[OMIDPARTNER]&pageURL=[PAGEURL]&placementType=[PLACEMENTTYPE]&playBackMethods=[PLAYBACKMETHODS]&playerCapabilities=[PLAYERCAPABILITIES]&playerSize=[PLAYERSIZE]&d_appid=${EXT_APP_ID}&d_creative=${CREATIVE_ID}&d_dealid=${DEAL_ID}&d_pid=${PUBLISHER_ID}&d_pubid=${PUBLISHER_ID}&d_referrer=${REFERER_URL_ENC}&d_siteid=${SITE_ID}&d_timestamp=${TIMESTAMP}&te=1

@@ -1,0 +1,36 @@
+campaigns.json specifies what DSP will be used.
+
+
+1. There is a DSP-centric map of macros to Qortex url params. The pair is d_parameter name = dsp_macro.
+
+2. Read macros from the tag and append them to the Qortex tag.
+    Requirement: transfer to the tag only macros that original tag has.
+    --> get all macros from the original tag (Regex?)
+    --> Iterate through the map
+    --> If Qortex macro is in the list of 3P tag macros:
+        --> Append Qortex key to the Q tag with the corresponding macros.
+
+3. On ad serving:
+    - There is a map between Qortex parameters and DSP macros.
+    - Iterated throw the map 
+        --> get Qortex key 
+        --> get macro from the map
+        --> get value from the request (based on key) 
+        --> replace macro on original tag with value
+
+        Also, we should replace unexpended macros with arbitrary values. OR NOT
+        DSP macro have macro convention - use the pattern for arbitrary values replacements.
+
+4. There is 3P tag DSP and Qortex DSP  
+    3P tag is DSP-centric. Are there cases when Qortex tag will be served through other than 3P DSP except for test campaigns?
+
+5. VPAID perspective
+
+Tag comes with DSP and VAST macros.
+
+Server gets values. Values are associated with vast-centric and dsp-centric Qortex keys.
+
+Server must expand macros on the 3P tags and write the tag with replaced values to AdParameters.
+
+So, it is not VPAID's responsibility to handle macros at all?
+

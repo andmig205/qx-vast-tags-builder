@@ -1,6 +1,15 @@
-config = {
-    # Request macros
-    "macros": {
+from pathlib import Path
+
+"""
+Configuration for tag building and distribution.
+"""
+
+class Config:
+    # Base Paths
+    BASE_DIR = Path(__file__).parent.parent
+
+    # Macros
+    MACROS = {
         "apidframeworks": "[APIFRAMEWORKS]",
         "breakMaxAds": "[BREAKMAXADS]",
         "breakPosition": "[BREAKPOSITION]",
@@ -18,10 +27,10 @@ config = {
         "playBackMethods": "[PLAYBACKMETHODS]",
         "playerCapabilities": "[PLAYERCAPABILITIES]",
         "playerSize": "[PLAYERSIZE]",
-    },
+    }
 
-    # DSP token maps
-    "dspTokens": {
+    # DSP Token Maps
+    DSP_TOKENS = {
         "TTD_to_Qortex": {
             "%%TTD_ADGROUPID%%": "d_pid",
             "%%TTD_CAMPAIGNID%%": "d_cid",
@@ -62,51 +71,58 @@ config = {
             "d_siteid": "${SITE_ID}",
             "d_timestamp": "${TIMESTAMP}",
         },
-    },
+    }
 
-    # Environments
-    "servers": {
-        "dev": "https://dev-iva-tag.qortex.ai/ivavast",
+    # Server Environments
+    SERVERS = {
         "local": "http://127.0.0.1:8000/ivavast",
+        "dev": "https://dev-iva-tag.qortex.ai/ivavast",
+        "stage": "https://stg-iva-tag.qortex.ai/ivavast",
         "prod": "https://iva-tag.qortex.ai/ivavast",
-        "stg": "https://stg-iva-tag.qortex.ai/ivavast",
-    },
-
-}
-
-# Sessions
-ttdSessions = [
-    {
-        "TTD_ADGROUPID": "pid_33",
-        "TTD_CAMPAIGNID": "cid_11",
-        "TTD_DEALID": "dealid_44",
-        "TTD_IMPRESSIONID": "impression_55",
-        "TTD_PUBLISHERID": "pubid_22",
-        "TTD_SITE": "SITE_ID_00",
-        "TTD_SITE_WITH_PATH": "ompid_66",
-        "TTD_SUPPLYVENDOR": "Supply_vendor",
     }
-]
 
-adkSessions = [
-    {
-        "app_id": "adk_app_id_22",
-        "campaign_id": "adk_cid_33",
-        "domain": "adk_domain_77",
-        "page_url": "adk_page_url_88",
-        "referrer": "adk_referrer_44",
-        "request_id": "adk_request_id_55",
-        "site_id": "adk_siteid_11",
-        "timestamp": "adk_timestamp_66",
-    }
-]
+    # Sample TTD Sessions
+    TTD_SESSIONS = [
+        {
+            "TTD_ADGROUPID": "pid_33",
+            "TTD_CAMPAIGNID": "cid_11",
+            "TTD_DEALID": "dealid_44",
+            "TTD_IMPRESSIONID": "impression_55",
+            "TTD_PUBLISHERID": "pubid_22",
+            "TTD_SITE": "SITE_ID_00",
+            "TTD_SITE_WITH_PATH": "ompid_66",
+            "TTD_SUPPLYVENDOR": "Supply_vendor",
+        }
+    ]
 
-macrosValues = [
-    {
-        "APIFRAMEWORKS": "2,3,4",
-        "BREAKPOSITION": "1",
-        "MEDIAPLAYHEAD": "00%3A05%3A21.123",
-        "OMIDPARTNER": "ias.com-omid",
-    }
-]
-mediaFileNode = '<MediaFile id="{id}" delivery="{delivery}" type="{type}" bitrate="{bitrate}" width="{width}" height="{height}" scalable="{scalable}" maintainAspectRatio="{maintainAspectRatio}"><![CDATA[{assetURI}]]></MediaFile>'
+    # Sample ADK Sessions
+    ADK_SESSIONS = [
+        {
+            "app_id": "adk_app_id_22",
+            "campaign_id": "adk_cid_33",
+            "domain": "adk_domain_77",
+            "page_url": "adk_page_url_88",
+            "referrer": "adk_referrer_44",
+            "request_id": "adk_request_id_55",
+            "site_id": "adk_siteid_11",
+            "timestamp": "adk_timestamp_66",
+        }
+    ]
+
+    # Example Macro Values
+    MACROS_VALUES = [
+        {
+            "APIFRAMEWORKS": "2,3,4",
+            "BREAKPOSITION": "1",
+            "MEDIAPLAYHEAD": "00%3A05%3A21.123",
+            "OMIDPARTNER": "ias.com-omid",
+        }
+    ]
+
+    # VAST Media File Node Template
+    MEDIA_FILE_NODE = (
+        '<MediaFile id="{id}" delivery="{delivery}" type="{type}" bitrate="{bitrate}" '
+        'width="{width}" height="{height}" scalable="{scalable}" '
+        'maintainAspectRatio="{maintainAspectRatio}">'
+        '<![CDATA[{assetURI}]]></MediaFile>'
+    )

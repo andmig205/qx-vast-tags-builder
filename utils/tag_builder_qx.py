@@ -1,6 +1,13 @@
 from config import mediaFileNode, config
 from pathlib import Path
-from helpers import get_campaign, appendTokens, save_tags
+from utils.helpers import get_campaign, append_tokens, save_tags
+
+"""
+Generates Qortex ad tag without wrapping 3P tag.
+
+Not currently in use
+
+"""
 
 def save_template(content, fileName):
     path = Path(__file__).parent.parent
@@ -37,7 +44,7 @@ def build_tags(campaign):
     servers = config["servers"]
     dspTokens = config["dspTokens"][dsp]
     macros = config["macros"]
-    tokensExtension = appendTokens(dspTokens, macros)
+    tokensExtension = append_tokens(dspTokens, macros)
     
     def build_url(server):
         return f"{server}/{advId}/{cid}/{adId}?rtype={rtype}{tokensExtension}"

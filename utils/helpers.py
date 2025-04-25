@@ -63,26 +63,10 @@ def save_tags_complete(tags, campaign):
     df = df.drop_duplicates(subset=["adId"])
     
     df.to_csv("tags-list.csv", index=False)
-    
-def get_campaign(adId):
-    path = Path(__file__).parent
-    path = path.joinpath('campaigns', 'campaigns.json')
-    with open(path, "r") as f:
-        content = json.load(f)
-    campaign = content[adId]
-    return campaign
 
 # append dsp tokens and macros 
-def appendTokens_v1(tag, dspTokens, macros = None):
-    uriParams = ""
-    for macro, value in macros.items():
-        uriParams += f"&{macro}={value}"
-    for token, value in dspTokens.items():
-        uriParams += f"&{token}={value}"
-    tag += uriParams
-    return tag
 
-def appendTokens(dspTokens, macros = None):
+def append_tokens(dspTokens, macros = None):
     uriParams = []
     for key, value in macros.items():
         uriParams.append(f"{key}={value}")
